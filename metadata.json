@@ -1,0 +1,6 @@
+{
+  "name": "kanribu-ai",
+  "description": "Multi-tenant, AI-workflow-first kintone alternative for Japanese SMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["ai", "workflow", "mcp", "a2a"]
+}
